@@ -4,7 +4,7 @@
 
 This is Minecraft library for contacting the Mojang API. It features modern features of Java and flexible way of
 communicating with Mojang. Furthermore, this project is used for experimenting with Unit-Tests.
-
+.
 ## Features
 
 * Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
@@ -28,7 +28,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Wait a customizable interval for sending bulk requests (although this increases latency)
 * Add multiple remote APIs besides Mojang:
     * [MineTools](https://api.minetools.eu/)
-
+...
 ## Requirements
 
 * Java 8+
